@@ -2,7 +2,7 @@
 
 ## CONTENTS OF THIS DIRECTORY:
 <br>
- - 1. transfer_learning_without_augmenting.ipynb
+- 1. transfer_learning_without_augmenting.ipynb
  <br>
 <tr>This is the main document which classifes images with 97.5% accuracy
  <br>
