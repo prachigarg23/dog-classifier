@@ -1,5 +1,7 @@
 # DOG-IDENTIFIER
 
+This is a basic dog classifier that classifies dogs in my colony. It can also differentiate dogs from cats. It has been built using transfer learning. The dataset comprises of 535 images which have been split into train and validation sets. 
+
 ## CONTENTS OF THIS DIRECTORY:
 <br>
  1. transfer_learning_without_augmenting.ipynb
