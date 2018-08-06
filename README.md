@@ -7,19 +7,9 @@
 <tr>This is the main document which classifes images with 97.5% accuracy
  <br>
  <br>
- 2. fine_tune_model.ipynb
- <br>
-<tr>This is an attempt to fine tune the model used in (1.)
- <br>
- <br>
  3. convnet_basic.ipynb 
  <br>
 <tr>This was the 1st model build from scratch with 71% accuracy
- <br>
- <br>
- 4. Convnet_from_scratch-2
- <br>
-<tr>Other models from scratch
  <br>
  <br>
  5. Image_augmentation.ipynb
