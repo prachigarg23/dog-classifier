@@ -6,12 +6,12 @@ This is a basic dog classifier that classifies dogs in my colony. It can also di
 <br>
  1. transfer_learning_without_augmenting.ipynb
  <br>
-<tr>This is the main document which classifes images with 97.5% accuracy
+<tr>This is the main document which classifes images with 97.5% accuracy. It uses transfer learning.
  <br>
  <br>
  3. convnet_basic.ipynb 
  <br>
-<tr>This was the 1st model build from scratch with 71% accuracy
+<tr>This was the first ConvNet I implemented and trained from scratch with 71% accuracy
  <br>
  <br>
  5. Image_augmentation.ipynb
